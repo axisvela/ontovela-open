@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go/v3"
 )
 
 func TestToAssertionInputsMapsRobotState(t *testing.T) {

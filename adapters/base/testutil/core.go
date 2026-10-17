@@ -7,7 +7,7 @@ import (
 	"net/http/httptest"
 	"sync"
 
-	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go/v3"
 )
 
 // FakeCore accepts assertion appends and counts them.

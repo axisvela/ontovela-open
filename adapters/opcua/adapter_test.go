@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go/v3"
 )
 
 func TestToAssertionInputMapsNodeRead(t *testing.T) {

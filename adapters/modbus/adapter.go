@@ -7,8 +7,8 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/axisvela/ONTOVELA-open/adapters/base"
-	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
+	"github.com/axisvela/ONTOVELA-open/adapters/base/v3"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go/v3"
 )
 
 var ErrInvalidMessage = errors.New("invalid modbus message")

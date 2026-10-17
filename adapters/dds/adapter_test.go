@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/axisvela/ONTOVELA-open/adapters/base"
-	"github.com/axisvela/ONTOVELA-open/adapters/base/testutil"
-	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
+	"github.com/axisvela/ONTOVELA-open/adapters/base/v3"
+	"github.com/axisvela/ONTOVELA-open/adapters/base/v3/testutil"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go/v3"
 )
 
 func TestRunIngestsMessage(t *testing.T) {
