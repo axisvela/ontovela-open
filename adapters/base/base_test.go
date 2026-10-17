@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	ontovela "github.com/axisrobo/ONTOVELA-open/sdk/go"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
 )
 
 func TestValidateAndAppend(t *testing.T) {

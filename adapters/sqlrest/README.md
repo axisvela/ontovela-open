@@ -5,7 +5,7 @@ changed rows as state assertions. Cursor advances only after a batch succeeds,
 so failures are retried.
 
 ```go
-import "github.com/axisrobo/ONTOVELA-open/adapters/sqlrest"
+import "github.com/axisvela/ONTOVELA-open/adapters/sqlrest"
 
 poller := &sqlrest.Poller{Source: mySQLSource, Client: client}
 cursor, err := poller.PollOnce(ctx, cursor)

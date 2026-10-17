@@ -1,4 +1,4 @@
-module github.com/axisrobo/ONTOVELA-open/contract
+module github.com/axisvela/ONTOVELA-open/contract
 
 go 1.25.5
 

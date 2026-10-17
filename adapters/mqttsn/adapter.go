@@ -7,8 +7,8 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/axisrobo/ONTOVELA-open/adapters/base"
-	ontovela "github.com/axisrobo/ONTOVELA-open/sdk/go"
+	"github.com/axisvela/ONTOVELA-open/adapters/base"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
 )
 
 var ErrInvalidMessage = errors.New("invalid mqttsn message")

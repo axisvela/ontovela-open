@@ -51,7 +51,7 @@ executors, robots, and human governors can all trust.
 ## This Repository: ONTOVELA Open
 
 Apache-2.0 licensed public developer surface for
-[ONTOVELA](https://github.com/axisrobo/ONTOVELA) — the public adoption path with
+[ONTOVELA](https://github.com/axisvela/ONTOVELA) — the public adoption path with
 stable API contracts, SDKs, examples, reference adapters, and local developer
 binaries.
 

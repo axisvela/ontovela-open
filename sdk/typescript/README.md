@@ -3,7 +3,7 @@
 Dependency-free TypeScript client for the ONTOVELA v0.1 API, built on `fetch`.
 
 ```ts
-import { OntovelaClient } from "@axisrobo/ontovela";
+import { OntovelaClient } from "@axisvela/ontovela";
 
 const client = new OntovelaClient({ baseUrl: "http://localhost:8080", tenantId: "acme" });
 

@@ -28,7 +28,7 @@ ONTOVELA 将物理、数字、组织、流程、Agent 与机器人的状态融�
 
 ## 本仓库：ONTOVELA Open
 
-[ONTOVELA](https://github.com/axisrobo/ontovela) 的 Apache-2.0 许可公开开发者平台，是公开采用入口，提供稳定 API 契约、SDK、示例、参考适配器与本地开发者二进制。
+[ONTOVELA](https://github.com/axisvela/ontovela) 的 Apache-2.0 许可公开开发者平台，是公开采用入口，提供稳定 API 契约、SDK、示例、参考适配器与本地开发者二进制。
 
 包含：
 
@@ -59,7 +59,7 @@ ONTOVELA 将物理、数字、组织、流程、Agent 与机器人的状态融�
 
 | 仓库 | 许可 | 职责 |
 | --- | --- | --- |
-| [ONTOVELA](https://github.com/axisrobo/ontovela) | AGPL-3.0-or-later | Operational World Model 核心运行时与 Reality Kernel |
+| [ONTOVELA](https://github.com/axisvela/ontovela) | AGPL-3.0-or-later | Operational World Model 核心运行时与 Reality Kernel |
 | ONTOVELA-open | Apache-2.0 | 公开 API、SDK、示例、适配器和开发者资产 |
 | ONTOVELA-ee | AxisRobo Enterprise License | 企业部署、联邦、规模、合规和高级运营能力 |
 
