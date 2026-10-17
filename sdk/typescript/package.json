@@ -1,7 +1,7 @@
 {
   "name": "@axisvela/ontovela",
-  "version": "3.0.0",
-  "description": "ONTOVELA Operational World Model v0.1 public TypeScript client",
+  "version": "1.0.1",
+  "description": "ONTOVELA Operational World Model public TypeScript client",
   "license": "Apache-2.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
