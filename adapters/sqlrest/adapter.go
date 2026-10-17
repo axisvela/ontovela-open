@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"time"
 
-	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go/v3"
 )
 
 var ErrInvalidRow = errors.New("invalid source row")

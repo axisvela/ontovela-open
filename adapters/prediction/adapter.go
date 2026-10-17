@@ -14,7 +14,7 @@ import (
 	"net/url"
 	"time"
 
-	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go/v3"
 )
 
 var ErrPredictionFailed = errors.New("prediction failed")

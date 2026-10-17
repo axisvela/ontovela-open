@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go/v3"
 )
 
 // Item is a buffered assertion request.

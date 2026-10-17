@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go/v3"
 )
 
 var ErrInvalidMessage = errors.New("invalid MQTT message")
