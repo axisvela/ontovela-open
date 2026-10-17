@@ -139,3 +139,10 @@ Parity is enforced by `contract/` drift guards.
 - Compatibility policy: `docs/compatibility.md`
 - Reference scenarios: `examples/warehouse-robot.md`, `examples/incident-response.md`, `examples/supply-chain-counterfactual.md`
 - Releases: tagged GitHub releases include the packaged developer binary for Windows.
+
+## Core status (recorded here; no external links)
+
+The ONTOVELA core at 1.0.1 documents the twin / agent-identity boundary: a twin
+is an operational world object registered with POST /v1/twins and is not
+registered through the agent registry; an agent or robot twin may reference an
+agent id but registration authority stays with ONTOVELA.

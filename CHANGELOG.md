@@ -1,5 +1,10 @@
 # Changelog
 
+## v1.0.1
+
+- Core documentation: the twin / agent-identity boundary (a twin is a world
+  object registered with POST /v1/twins, not an agent record). No contract change.
+
 ## v1.0.0
 
 - General availability: stable public contracts aligned with core; drift guard green
