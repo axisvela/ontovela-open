@@ -1,5 +1,5 @@
 {
-  "name": "@axisrobo/ontovela",
+  "name": "@axisvela/ontovela",
   "version": "0.1.0",
   "description": "ONTOVELA Operational World Model v0.1 public TypeScript client",
   "license": "Apache-2.0",

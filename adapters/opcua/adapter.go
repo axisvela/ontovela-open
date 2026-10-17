@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"time"
 
-	ontovela "github.com/axisrobo/ONTOVELA-open/sdk/go"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
 )
 
 var ErrInvalidNode = errors.New("invalid OPC UA node value")

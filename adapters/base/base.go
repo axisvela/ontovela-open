@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"time"
 
-	ontovela "github.com/axisrobo/ONTOVELA-open/sdk/go"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
 )
 
 var ErrInvalidPayload = errors.New("invalid adapter payload")

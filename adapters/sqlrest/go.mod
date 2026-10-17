@@ -1,7 +1,7 @@
-module github.com/axisrobo/ONTOVELA-open/adapters/sqlrest
+module github.com/axisvela/ONTOVELA-open/adapters/sqlrest
 
 go 1.25.5
 
-require github.com/axisrobo/ONTOVELA-open/sdk/go v0.0.0
+require github.com/axisvela/ONTOVELA-open/sdk/go v0.0.0
 
-replace github.com/axisrobo/ONTOVELA-open/sdk/go => ../../sdk/go
+replace github.com/axisvela/ONTOVELA-open/sdk/go => ../../sdk/go

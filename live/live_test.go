@@ -15,12 +15,12 @@ import (
 	"testing"
 	"time"
 
-	effect "github.com/axisrobo/ONTOVELA-open/adapters/effect"
-	harmovela "github.com/axisrobo/ONTOVELA-open/adapters/harmovela"
-	httpwebhook "github.com/axisrobo/ONTOVELA-open/adapters/httpwebhook"
-	mqtt "github.com/axisrobo/ONTOVELA-open/adapters/mqtt"
-	opcua "github.com/axisrobo/ONTOVELA-open/adapters/opcua"
-	ontovela "github.com/axisrobo/ONTOVELA-open/sdk/go"
+	effect "github.com/axisvela/ONTOVELA-open/adapters/effect"
+	harmovela "github.com/axisvela/ONTOVELA-open/adapters/harmovela"
+	httpwebhook "github.com/axisvela/ONTOVELA-open/adapters/httpwebhook"
+	mqtt "github.com/axisvela/ONTOVELA-open/adapters/mqtt"
+	opcua "github.com/axisvela/ONTOVELA-open/adapters/opcua"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
 )
 
 const tenantID = "acme"

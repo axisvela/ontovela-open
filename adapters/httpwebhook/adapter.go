@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"time"
 
-	ontovela "github.com/axisrobo/ONTOVELA-open/sdk/go"
+	ontovela "github.com/axisvela/ONTOVELA-open/sdk/go"
 )
 
 var ErrInvalidRequest = errors.New("invalid webhook request")

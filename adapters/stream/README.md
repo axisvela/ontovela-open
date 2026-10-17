@@ -5,7 +5,7 @@ Kafka and NATS client libraries implement the `Consumer` interface without
 adding broker code to ONTOVELA.
 
 ```go
-import "github.com/axisrobo/ONTOVELA-open/adapters/stream"
+import "github.com/axisvela/ONTOVELA-open/adapters/stream"
 
 client, _ := ontovela.NewClient("http://localhost:8080", "acme")
 err := stream.Run(ctx, myKafkaConsumer, client)

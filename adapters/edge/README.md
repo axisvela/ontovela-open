@@ -4,7 +4,7 @@ Offline-tolerant edge adapter that buffers state assertions locally and replays
 them in order when connectivity returns.
 
 ```go
-import "github.com/axisrobo/ONTOVELA-open/adapters/edge"
+import "github.com/axisvela/ONTOVELA-open/adapters/edge"
 
 spool := edge.New()
 sequence := spool.Append(item) // offline-safe
