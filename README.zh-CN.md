@@ -61,6 +61,6 @@ ONTOVELA 将物理、数字、组织、流程、Agent 与机器人的状态融�
 | --- | --- | --- |
 | [ONTOVELA](https://github.com/axisvela/ontovela) | AGPL-3.0-or-later | Operational World Model 核心运行时与 Reality Kernel |
 | ONTOVELA-open | Apache-2.0 | 公开 API、SDK、示例、适配器和开发者资产 |
-| ONTOVELA-ee | AxisRobo Enterprise License | 企业部署、联邦、规模、合规和高级运营能力 |
+| ONTOVELA-ee | AxisVela Enterprise License | 企业部署、联邦、规模、合规和高级运营能力 |
 
 企业版不会改变公开 assertion、state kind、snapshot digest 或 wire contract 的语义。
