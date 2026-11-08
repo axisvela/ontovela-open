@@ -22,6 +22,24 @@ It replaces fragmented IoT dashboards, CMDBs, knowledge graphs, and private
 agent state with one authoritative operational-world plane that planners,
 executors, robots, and human governors can all trust.
 
+## Edge and Learning Boundaries
+
+ONTOVELA retains operational world truth and authenticated source binding.
+DIDACTOVELA owns episode/dataset/label/training/candidate lineage; raw episodes
+and datasets are not authoritative current state. Synthetic, replayed and
+model-derived data retain provenance, original event time and state kind, and
+cannot auto-promote to real `observed` state. Replay is not a fresh observation;
+new observations require independent authenticated source evidence and admission.
+
+The existing `edge` adapter is an ingestion spool, not AKROVELA execution support;
+no migration is claimed. AKROVELA and DIDACTOVELA are unreleased `0.1.0` bootstrap
+only, with no implemented domain integrations. Future ingestion requires reviewed,
+versioned public contracts before dependent implementation, tenant/episode/source
+bindings and applicable identity/node epochs. Negative tests must reject forged
+or revoked sources, stale epochs, cross-tenant/episode substitution and automatic
+promotion of replayed, synthetic or model-derived inputs into current observations.
+This statement adds no API and claims no working integration.
+
 ## Key Features
 
 - **Evidence-first state**: every claim carries a source, evidence reference,
